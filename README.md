@@ -19,7 +19,7 @@ Atualmente sou estudante de Desenvolvimento Web, focado em construir as bases pa
 
 ## 📫 Como me encontrar
 
-- 📧 **E-mail:** [joaopedrobrandaodev@gmail.com]
+- 📧 **E-mail:** joaopedrobrandaodev@gmail.com
 
 ---
 
