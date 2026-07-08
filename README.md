@@ -1,16 +1,26 @@
-## Hi there 👋
+# Olá, eu sou o João Pedro! 👋
 
-<!--
-**jpbrandaodev/jpbrandaodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente sou estudante de Desenvolvimento Web, focado em construir as bases para me tornar um Desenvolvedor Front-End. Estou no processo de aprendizado, transformando linhas de código em páginas web interativas e funcionais.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre Mim
+
+- 💡 Buscando constantemente aprender novas tecnologias e boas práticas de código
+- 🌱 No momento, estou focando em desenvolvimento WEB (HTML, CSS e JavaScript)
+- 
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jpbrandaodev&show_icons=true&theme=radial&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+</p>
+
+---
+
+## 📫 Como me encontrar
+
+- 📧 **E-mail:** [joaopedrobrandaodev@gmail.com]
+
+---
+
+⭐ *Obrigado por visitar o meu perfil! Sinta-se à vontade para explorar meus repositórios e acompanhar a minha evolução.*
